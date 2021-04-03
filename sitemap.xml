@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://dnyaneshkolhe.me/</loc>
-  <lastmod>2021-01-10T10:09:25+00:00</lastmod>
+  <lastmod>2021-04-03T11:42:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dnyaneshkolhe.me/index.html</loc>
+  <lastmod>2021-04-03T11:42:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
